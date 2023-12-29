@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wassim-frioui/)
 
 
-- 🌐 Feel free to check out my [portfolio](https://w-f.com/) website!
+- 🌐 Feel free to check out my [portfolio](https://w-f.me/) website!
 - 🏢 Student in engineering at [ISEP](https://www.isep.fr/) Paris.
 - 🧰 I build with: Python, Next.js, Tailwind, Java,  and many others...
 - ⚡ I enjoy creativity, photography, and video games.
